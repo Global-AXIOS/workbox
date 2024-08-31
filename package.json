@@ -100,7 +100,7 @@
     "tempy": "^0.5.0",
     "typescript": "^3.8.3",
     "upath": "^1.2.0",
-    "webpack": "^4.43.0",
+    "webpack": "^5.94.0",
     "worker-plugin": "^4.0.2"
   }
 }
